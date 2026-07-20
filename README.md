@@ -145,4 +145,4 @@ Replace `IndexFlatIP` with a distributed ANN store (Milvus / Pinecone). Add a jo
 
 ## 📄 License
 
-MIT © 2024 Clara-xiao
+WKU © 2026 Clara-xiao
