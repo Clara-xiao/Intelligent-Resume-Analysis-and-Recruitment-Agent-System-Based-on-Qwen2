@@ -1,0 +1,19 @@
+# Core
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+streamlit>=1.34.0
+pydantic>=2.0.0
+
+# LLM
+openai>=1.25.0          # OpenAI-compatible client for Qwen2.5 via DashScope / vLLM
+
+# RAG & Embeddings
+faiss-cpu>=1.7.4
+sentence-transformers>=2.7.0   # downloads BAAI/bge-small-zh-v1.5 on first run
+numpy>=1.26.0
+
+# PDF parsing
+pdfplumber>=0.11.0
+
+# Env config
+python-dotenv>=1.0.0

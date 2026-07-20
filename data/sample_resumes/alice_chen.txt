@@ -1,0 +1,19 @@
+Alice Chen
+Email: alice.chen@example.com | GitHub: github.com/alicechen
+
+EDUCATION
+B.S. Computer Science, UC San Diego, 2021
+
+EXPERIENCE
+Backend Engineer — DataFlow Inc. (2021–present)
+- Designed and maintained Python/FastAPI microservices handling 5k QPS
+- Built a retrieval-augmented generation (RAG) pipeline using FAISS + BGE embeddings
+- Reduced average API latency by 35% through async I/O and Redis caching
+- Deployed models on Kubernetes; automated CI/CD with GitHub Actions
+
+Intern — TechStartup (Summer 2020)
+- Implemented REST APIs with Flask; wrote unit tests achieving 90% coverage
+
+SKILLS
+Python, FastAPI, Flask, PostgreSQL, Redis, FAISS, Docker, Kubernetes, GitHub Actions
+LLM experience: prompt engineering, LangChain, OpenAI API

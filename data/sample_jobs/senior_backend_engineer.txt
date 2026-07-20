@@ -1,0 +1,22 @@
+Position: Senior Backend Engineer — AI Platform
+Company: TechCorp
+
+We are looking for a senior backend engineer to join our AI Platform team.
+
+Requirements:
+- 3+ years of Python backend development (FastAPI or Django)
+- Experience building and deploying LLM-based applications
+- Familiarity with vector databases (FAISS, Milvus, Pinecone)
+- Strong understanding of RAG (Retrieval-Augmented Generation) architectures
+- Proficiency with Docker and Kubernetes
+- Experience with CI/CD pipelines (GitHub Actions, Jenkins)
+
+Nice to have:
+- LLM fine-tuning experience (LoRA, QLoRA)
+- Distributed systems design
+- Open-source contributions
+
+Responsibilities:
+- Design and maintain high-throughput AI microservices
+- Build and optimise RAG pipelines for internal knowledge management
+- Collaborate with ML engineers on model deployment and serving
